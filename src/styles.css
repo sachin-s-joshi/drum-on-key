@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+}
+
+html {
+  background-color: burlywood;
+}
+.header {
+  font-family: Sofia Pro;
+  font-weight: 800;
+  font-size: 24px;
+  text-align: center;
+  margin: auto;
+  padding: 1rem;
+}
